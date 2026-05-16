@@ -292,9 +292,6 @@ Honest about works-today vs. planned. Treat as the live roadmap.
 ## Help and community
 
 - **Telegram:** [@BrushesAndBytes](https://t.me/BrushesAndBytes) — direct line to Alexander, founder
-- **Email:** REDACTED
-- **30-min call:** [REDACTED](https://REDACTED)
-- **Deck:** [pitch.reineira.xyz](https://pitch.reineira.xyz)
 - **Docs:** [docs.reineira.xyz](https://docs.reineira.xyz)
 
 ---
