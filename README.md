@@ -38,17 +38,11 @@ Every venture inherits Reineira's primitives without writing them:
 
 ---
 
-## Built with Atlas
+## Examples
 
-A non-exhaustive list of ventures shipping on Atlas + Reineira primitives today.
+Working ventures bootstrapped with Atlas — full repos you can read, fork, and run.
 
-| Venture | What it is | Stage |
-| --- | --- | --- |
-| **Liquidity Accord** | Confidential performance bonds for market-makers; delisting insurance for token issuers (NGFA) | PMF, live MM desk |
-| **Prova** | Confidential trade-credit insurance — agri, solar, tech | 3 LOIs |
-| **Lendi** | Protected lending — DAO → individual, DAO → business, agent → agent | Live testnet |
-
-Three of 10+ teams currently building. See the [seed deck](https://pitch.reineira.xyz) for the full pipeline.
+[github.com/ReineiraOS/examples](https://github.com/ReineiraOS/examples)
 
 ---
 
