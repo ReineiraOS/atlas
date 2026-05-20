@@ -1,7 +1,7 @@
 # Reineira Atlas
 
 [![Platform](https://img.shields.io/badge/ReineiraOS-v0.1-blue)](https://reineira.xyz)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-MPL--2.0-green)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-required-7c3aed)](https://claude.com/claude-code)
 
 > **From a one-page brief to a deployed venture in 1 hour.**
@@ -304,4 +304,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md). Bug reports, brief examples, and skill
 
 ## License
 
-[MIT](./LICENSE).
+[MPL-2.0](./LICENSE) — Mozilla Public License 2.0. Atlas is the builder-platform / curation layer; file-level copyleft keeps modifications to Atlas source shared while permitting combination with proprietary code.

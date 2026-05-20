@@ -1,21 +1,33 @@
-MIT License
+Mozilla Public License Version 2.0
 
-Copyright (c) 2026 Reineira Labs Ltd.
+Copyright (c) 2026 Reineira Labs Limited
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This work — Reineira Atlas (the startup operating system: agents, skills,
+strategy docs, dispatch logic, and curation IP) — is licensed under the
+Mozilla Public License, Version 2.0 (MPL-2.0).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The full, canonical license text is published by the Mozilla Foundation at:
+https://www.mozilla.org/en-US/MPL/2.0/
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SPDX-License-Identifier: MPL-2.0
+
+-----------------------------------------------------------------------------
+
+Exhibit A - Source Code Form License Notice
+
+  This Source Code Form is subject to the terms of the Mozilla Public
+  License, v. 2.0. If a copy of the MPL was not distributed with this file,
+  You can obtain one at https://www.mozilla.org/en-US/MPL/2.0/.
+
+If it is not possible or desirable to put the notice in a particular file,
+then You may include the notice in a location (such as a LICENSE file in a
+relevant directory) where a recipient would be likely to look for such a
+notice.
+
+-----------------------------------------------------------------------------
+
+NOTE TO MAINTAINERS: replace this file with the verbatim MPL-2.0 text from
+https://www.mozilla.org/en-US/MPL/2.0/ before public release. This file
+declares the license and copyright but references the canonical text by URL
+rather than reproducing it; MPL-2.0 is most defensible when the full text
+ships in-repo.
