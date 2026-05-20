@@ -1,10 +1,14 @@
 Reineira Atlas
-Copyright (c) 2026 Reineira Labs Ltd.
+Copyright (c) 2026 Reineira Labs Limited
 
-Licensed under the MIT License.
-See the LICENSE file in the root directory for details.
+Licensed under the Mozilla Public License, Version 2.0 (MPL-2.0).
+See the LICENSE file in the root directory for details, and the canonical
+text at https://www.mozilla.org/en-US/MPL/2.0/.
 
 This software is part of the ReineiraOS platform — open settlement
-infrastructure for confidential programmable finance.
+infrastructure for confidential programmable finance. Reineira Atlas is the
+builder-platform / curation layer; MPL-2.0 (file-level copyleft) is chosen so
+that modifications to Atlas source files remain shared while permitting
+combination with proprietary code.
 
 https://reineira.xyz
